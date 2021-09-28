@@ -4,3 +4,6 @@
 #### 이름 : 이경민
 #### email : dnwndls5828@gmail.com
 #### university : hallym university
+
+> 취미 
+>> 스키
