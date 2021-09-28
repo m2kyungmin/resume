@@ -18,6 +18,8 @@
 ## 최근 관심 분야  
 * 오픈소스
 
+![linux icon](linux.png)
+
 ***
 ## 오픈소스 커뮤니티 정리파일
 [오픈소스 커뮤니티 파일](openSource_community.md)
